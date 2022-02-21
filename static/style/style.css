@@ -1,0 +1,30 @@
+* {
+    padding: 0px; 
+    margin: 0px;
+}
+
+h1 {
+    background-color: antiquewhite;
+    color: red;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+#color1 {
+    background-color: black;
+}
+
+#color2 {
+    background-color: red;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+}
+
+table tr td {
+    width: 50px;
+    height: 50px;
+}
